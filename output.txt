@@ -1,0 +1,68 @@
+*************************************
+holy2a09307.rc.fas.harvard.edu
+Job pentane_conformation_2 started at...
+Fri Nov  3 15:08:02 EDT 2017
+
+Job finished at:
+Fri Nov  3 15:08:17 EDT 2017
+
+Job terminated normally...
+
+Final energy:
+SCF Done: E(RPDDG) = -0.552410902515E-01 A.U. after 2 cycles
+
+No imaginary frequencies found.
+ Sum of electronic and thermal Free Energies=            0.068028
+*************************************
+
+*************************************
+holy2a09307.rc.fas.harvard.edu
+Job pentane_conformation_1 started at...
+Fri Nov  3 15:08:02 EDT 2017
+
+Job finished at:
+Fri Nov  3 15:08:18 EDT 2017
+
+Job terminated normally...
+
+Final energy:
+SCF Done: E(RPDDG) = -0.548807785165E-01 A.U. after 2 cycles
+
+No imaginary frequencies found.
+ Sum of electronic and thermal Free Energies=            0.069483
+*************************************
+
+*************************************
+holy2a09307.rc.fas.harvard.edu
+Job pentane_conformation_3 started at...
+Fri Nov  3 15:08:02 EDT 2017
+
+Job finished at:
+Fri Nov  3 15:08:25 EDT 2017
+
+Job terminated normally...
+
+Final energy:
+SCF Done: E(RPDDG) = -0.541711117944E-01 A.U. after 2 cycles
+
+No imaginary frequencies found.
+ Sum of electronic and thermal Free Energies=            0.070773
+*************************************
+
+*************************************
+holy2a08203.rc.fas.harvard.edu
+Job pentane_conformation_4 started at...
+Fri Nov  3 15:08:02 EDT 2017
+
+Job finished at:
+Fri Nov  3 15:08:34 EDT 2017
+
+Job terminated normally...
+
+Final energy:
+SCF Done: E(RPDDG) = -0.531338233322E-01 A.U. after 2 cycles
+
+No imaginary frequencies found.
+ Sum of electronic and thermal Free Energies=            0.073366
+*************************************
+
